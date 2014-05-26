@@ -1,6 +1,6 @@
 # Spices
 
-Spices is a template for [http://thelia.net](Thelia) ecommerce solution
+Spices is a template for [Thelia](http://thelia.net) ecommerce solution
 
 ## Screenshots
 
