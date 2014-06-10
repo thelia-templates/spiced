@@ -19,7 +19,7 @@ You have 2 choices for installing this template :
 
 * replace the assets directory contained in the default template by the assets directory of this repo. 
 
-**Be careful, by using yhis method tou can loose all your modifications if you update the default template**
+**Be careful, by using this method tou can loose all your modifications if you update the default template**
 
 ## Screenshots
 
